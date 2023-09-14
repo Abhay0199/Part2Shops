@@ -1,0 +1,17 @@
+{
+  "name": "shopsp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shops.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node shops.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.11.3"
+  }
+}
